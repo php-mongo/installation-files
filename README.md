@@ -4,5 +4,5 @@
 Setup assistance: 
 https://phpmongoadmin.com/support/documentation/setup
 
-Alias URI's and Nestes install warnings: 
+Alias URI's setup and Nested install warnings: 
 https://phpmongoadmin.com/support/documentation/setup/aliases-nesting-security
